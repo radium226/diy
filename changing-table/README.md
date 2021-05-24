@@ -1,4 +1,4 @@
-# Changing Table
+# Changing Table 👶
 
 # Model
 
@@ -11,3 +11,4 @@
  * https://www.amazon.fr/dp/B07S1W48ND/ref=cm_sw_r_u_apa_glt_i_740K630Z4WWYVNWSRZG0?_encoding=UTF8&psc=1
  * https://forum.copaindescopeaux.fr/viewtopic.php?t=9195
  * https://www.youtube.com/watch?v=jfNBfdIpzDQ&feature=youtu.be
+ * https://forum.copaindescopeaux.fr//viewtopic.php?f=20&t=76&hilit=mdf+finitions
