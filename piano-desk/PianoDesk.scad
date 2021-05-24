@@ -156,10 +156,10 @@ module bracket(width = 1.50, depth=5, height=10, thickness = 0.20)
 //bracket();
 
 // Tout fermé
-desk(0, 0, 0, 90);
+//desk(0, 0, 0, 90);
 
 // En mode piano
 //desk(90 + 80, 30, 0, 90);
 
 // En mode bureau
-//desk(0, 0, 20, 0);
+desk(0, 0, 20, 0);
