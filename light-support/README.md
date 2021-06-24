@@ -65,3 +65,5 @@ And there will be light!
 
 ![Light on](images/Light_On.jpg)
 
+Thanks a lot Xavier for your help on this small DIY project!
+
