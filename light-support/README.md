@@ -47,7 +47,7 @@ Before 3D printing the whole piece, I exported [a plan](Plan.pdf) using the [Tec
 
 ## 3D Printing
 
-Everything went well, so with the help of my friend Xavier, we printed the piece using a [???](???). I also glued the nuts to the piece using [Locite](https://www.amazon.fr/gp/product/B0000WRNVW/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1). 
+Everything went well, so with the help of my friend Xavier, we printed the piece using a CR 10 3D Printer](https://www.creality3dofficial.com/products/creality-cr-10-3d-printer), with PLA. I also glued the nuts to the piece using [Locite](https://www.amazon.fr/gp/product/B0000WRNVW/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1). 
 
 ![Piece after 3D print](images/3D_Printed_Piece.jpg)
 
